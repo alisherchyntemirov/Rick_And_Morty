@@ -6,7 +6,11 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/drawable/circle_dead.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/layout/fragment_character.xml" value="0.16206357477853048" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/layout/fragment_characters_detail.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/layout/fragment_locations_detail.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/layout/item_character.xml" value="0.16197916666666667" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/layout/item_episode.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/layout/location_item.xml" value="0.16197916666666667" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Rick_And_Morty/app/src/main/res/menu/menu_refresh.xml" value="0.1" />
       </map>
     </option>

@@ -50,15 +50,15 @@ class CharacterAdapter(
         }
 
         fun onBind(item: CharacterDto) = with(binding) {
-            itemImg.load(item.image)
-            itemName.text = item.name
+            itemImage.load(item.image)
+            itemNm.text = item.name
             itemStatus.text = item.status
             itemSpecies.text = item.species
-            itemLocation.text = item.location.name
+            locationItem.text = item.location.name
             when (item.status) {
-                "Alive" -> itemStatusLive.setBackgroundResource(R.drawable.circle_live)
-                "Dead" -> itemStatusLive.setBackgroundResource(R.drawable.circle_dead)
-                else -> itemStatusLive.setBackgroundResource(R.drawable.circle_unkown)
+                "Alive" -> itemStatusLv.setBackgroundResource(R.drawable.circle_live)
+                "Dead" -> itemStatusLv.setBackgroundResource(R.drawable.circle_dead)
+                else -> itemStatusLv.setBackgroundResource(R.drawable.circle_unkown)
             }
         }
     }

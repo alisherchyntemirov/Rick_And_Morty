@@ -142,5 +142,4 @@ dependencies {
     def koin_version= "3.1.4"
     // | for main features for Android
     implementation "io.insert-koin:koin-android:$koin_version"
-
 }
